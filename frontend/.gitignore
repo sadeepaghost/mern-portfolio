@@ -1,4 +1,4 @@
-# Dependencies
+# Dependencies — ignores node_modules in frontend, backend, and root
 node_modules/
 
 # Environment variables
